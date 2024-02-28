@@ -14,7 +14,6 @@ class MoviesController < ApplicationController
       end
 
       format.html 
-      end
     end
   end
 
